@@ -1,18 +1,28 @@
 global.owner = [
-  "2347043759577",
-  ""
+  "918134015876",
+  "917636987434"
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
-global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channeljid = "120363315231436175@newsletter"
+global.ownername = "𝓡𝓲𝓸(リオ)🍃🌸"
+global.packname = "🍁❈°𝐄𝐥𝐢𝐭𝐞 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞°❈🍁"
+global.author = "𓆩*"🍁𝓡𝓲𝓸(リオ)™🍁모"
+
+⏤͟͟͞💎안녕하 𓆩ꨄ︎𓆪 세요⃟❄️
+
+⏤͟͟͞🥂안녕하 𓆩ꨄ︎𓆪 세요⃟🌕
+
+⏤͟͟͞🌿안녕하 𓆩ꨄ︎𓆪 세요⃟🍏
+
+⏤͟͟͞🐈‍⬛안녕하 𓆩ꨄ︎𓆪 세요⃟🖤
+    
+🐾: ̗̀➛+⁹¹⁷⁶³⁶⁹⁸⁷⁴³⁴💌|🍁❈°𝐄𝐥𝐢𝐭𝐞 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞°❈🍁"
+global.channelname = "🍁❈°𝐄𝐥𝐢𝐭𝐞 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞°❈🍁"
+global.channeljid = "https://whatsapp.com/channel/0029VauhtxdJUM2jS9Upme02"
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
-global.autoViewStatus = true;   // Set to true to automatically read statuses
+global.autoViewStatus = false;   // Set to true to automatically read statuses
 global.AUTOSTATUS_REACT = false;   // Set to true to automatically like statuses
-global.autoLikeEmoji = "💚";    // Default emoji for liking statuses
+global.autoLikeEmoji = "🍁";    // Default emoji for liking statuses
 
 global.LEVELUP = false;
 
@@ -30,14 +40,14 @@ global.roles = {
     25: "Legend",
 };
 
-global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.net"]; // Add the JIDs of sudo users
+global.sudoUsers = ["918134015876@s.whatsapp.net", "917636987434@s.whatsapp.net"]; // Add the JIDs of sudo users
 
 
 
-global.public = true
+global.public = false
 
 
-global.ANTIDELETE = false;  
+global.ANTIDELETE = true;  
 
 global.unavailable = true;     
 //to show your real presence  
@@ -48,7 +58,7 @@ global.autoreadmessages = false;
 global.chatbot = false;
 global.autoreact = false;
 
-global.WELCOME = false;
+global.WELCOME = true;
 
 global.prefix = '.';
 
@@ -56,11 +66,11 @@ global.autobio = false;
 
 global.ANTICALL = false;
 
-global.antilink = false;
+global.antilink = true;
 
 global.antilinkkick = false;
 
-global.antilinkwarn = false;
+global.antilinkwarn = true;
 
 global.mess = {
     success: '𝙳𝚘𝚗𝚎',
